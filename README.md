@@ -1,6 +1,7 @@
 # Remix K-pop Stack
 
-![k-pop site image](https://avatars.githubusercontent.com/u/115647248?s=200)
+![k-pop site image](![fxhjyj](https://user-images.githubusercontent.com/115647248/195487221-7da7416e-5265-4e90-9a85-1549a1919d74.jpg)
+)
 
 Deployed Site: [kpop-stack.netlify.app](https://kpop-stack.netlify.app)
 
