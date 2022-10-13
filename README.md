@@ -1,4 +1,4 @@
-# Remix K-pop Stack
+# sal-man
 
 ![k-pop site image](![fxhjyj](![image](https://user-images.githubusercontent.com/115647248/195489918-31f21a24-cc50-4990-87f6-899ad0ca6de6.png)
 )
